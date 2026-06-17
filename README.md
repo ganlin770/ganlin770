@@ -17,7 +17,7 @@
 
 ### 📌 Featured Projects
 
-- **[matlab-viz-mcp](https://github.com/ganlin770/matlab-viz-mcp)** — MCP server that lets LLMs generate MATLAB visualizations via the Model Context Protocol. `TypeScript · MCP SDK`
+- **[matlab-viz-mcp](https://github.com/ganlin770/matlab-viz-mcp)** — MCP server that lets LLMs generate MATLAB visualizations via the Model Context Protocol. `Node.js · MCP SDK`
 - **[paper-search-server](https://github.com/ganlin770/paper-search-server)** — MCP server for academic paper search over the Elsevier Scopus API. `Python · Flask`
 - **[thesis-generator](https://github.com/ganlin770/thesis-generator)** — Full-stack academic analysis & generation: parsing → data analysis → LLM content → DOCX. `FastAPI · Claude API`
 - **[xhs-news-dashboard](https://github.com/ganlin770/xhs-news-dashboard)** — Real-time news aggregator with LLM-powered summarization. `Next.js · Claude SDK`
@@ -42,7 +42,7 @@
 
 ### 🎓 Background
 
-- Finance / Economics undergrad (2026) → self-taught AI / ML & software engineering
+- Law (法学) undergrad (2026), Jiangxi University of Finance & Economics → self-taught into AI / Agent engineering & applied data analysis
 - Econometric modeling, quantitative analysis, data storytelling
 - *"If it doesn't solve a real problem, it's not engineering."*
 
@@ -50,7 +50,7 @@
 
 ### 📬 Get in Touch
 
-- 📧 Email: `请替换为你的邮箱`
+- 📧 Email: `2379286964@qq.com`
 - 🐙 GitHub: [@ganlin770](https://github.com/ganlin770)
 
 *Open to LLM / AI engineering internships & roles.*
