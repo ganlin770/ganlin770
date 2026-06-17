@@ -1,6 +1,6 @@
 ## 🚀 LLM Application Engineer
 
-2026 graduate transitioning from finance to AI/ML engineering. I specialize in **shipping production-grade LLM toolchains** — turning large-model capabilities into reusable tools that solve real problems. Self-built **70+ Claude Code Skills**, **20+ MCP servers**, and end-to-end **AIGC pipelines** (voice cloning, document automation, multi-platform agents).
+2026 graduate transitioning from law to AI / Agent engineering. I specialize in **shipping production-grade LLM toolchains** — turning large-model capabilities into reusable tools that solve real problems. Self-built **70+ Claude Code Skills**, **20+ MCP servers**, and end-to-end **AIGC pipelines** (voice cloning, document automation, multi-platform agents).
 
 ### 🎯 Core Expertise
 
@@ -17,10 +17,10 @@
 
 ### 📌 Featured Projects
 
-- **[matlab-viz-mcp](https://github.com/ganlin770/matlab-viz-mcp)** — MCP server that lets LLMs generate MATLAB visualizations via the Model Context Protocol. `Node.js · MCP SDK`
-- **[paper-search-server](https://github.com/ganlin770/paper-search-server)** — MCP server for academic paper search over the Elsevier Scopus API. `Python · Flask`
-- **[thesis-generator](https://github.com/ganlin770/thesis-generator)** — Full-stack academic analysis & generation: parsing → data analysis → LLM content → DOCX. `FastAPI · Claude API`
-- **[xhs-news-dashboard](https://github.com/ganlin770/xhs-news-dashboard)** — Real-time news aggregator with LLM-powered summarization. `Next.js · Claude SDK`
+- **[tool-smith](https://github.com/ganlin770/tool-smith)** — LoRA-fine-tuned a 0.5B model into a JSON tool-call router (PEFT+TRL), served over MCP, with a base-vs-tuned eval + an agent loop (validate → repair-retry → fallback). `PEFT/TRL · MCP · eval`
+- **[promptlab](https://github.com/ganlin770/promptlab)** — from-scratch hybrid **rule + LLM-as-judge** eval harness: pass-rate, judge-vs-rule agreement, CI gate, JSONL audit. `Python · LLM eval`
+- **[thesis-generator](https://github.com/ganlin770/thesis-generator)** — full-stack FastAPI LLM app: 8-stage pipeline (parse → analyze → LLM content → DOCX), deployed. `FastAPI · Claude API`
+- **[matlab-viz-mcp](https://github.com/ganlin770/matlab-viz-mcp)** — MCP server exposing MATLAB plotting as an LLM-callable tool. `Node.js · MCP SDK`
 
 ### 🛠️ Tech Stack
 
